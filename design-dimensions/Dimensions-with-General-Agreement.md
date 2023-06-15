@@ -41,3 +41,7 @@ In order to be useful, measurement systems need to produce a continuous release 
 The community group has reached general agreement that the _Private Measurement Technical Specification MVP_ should _at least_ include a time or interaction component to the budget scope. That is, as the user browses the web and interacts with sites more, we would expect that the private measurement system will allow more information about that user to be disclosed.
 
 It is worth noting that, at least among existing differential privacy deployments, a time dimension in the privacy unit is very common. See https://desfontain.es/privacy/real-world-differential-privacy.html for a list of examples here.
+
+## Opportunity Events / Ghost Ads
+
+The community group has reached general agreement that source events need not correspond to visible ad impressions. There is general agreement that the ability to perform randomized response measurement (ads vs no ads) is an important use case we want to support.
